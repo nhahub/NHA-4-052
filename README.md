@@ -551,9 +551,23 @@ GET    /api/v1/metrics?range=7D       # Get nutrition metrics
 
 **Mohamed Alaa**
 
-Full Stack Developer | AI/ML Enthusiast
-
 GitHub: https://github.com/MohameedAlaa
+
+**Ahmed Essam**
+
+GitHub: https://github.com/ahmed3ssam0
+
+**Abanoub Nasif**
+
+GitHub: https://github.com/BeboNasif
+
+**Yousif Mohamed**
+
+GitHub: https://github.com/yousif-mohamed1
+
+**Rahma Mourad**
+
+GitHub: https://github.com/Rahmamouradsayed
 
 ---
 
